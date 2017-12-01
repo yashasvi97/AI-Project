@@ -187,7 +187,7 @@ blocks_all = make_common_ground()
 
 
 
-blocks = blocks_blk
+blocks = blocks_all
 # hyper parameters
 W1 = 1
 W2 = 1
